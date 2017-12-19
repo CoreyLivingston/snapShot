@@ -1,4 +1,4 @@
-**SnapShot**
+# SnapShot
 
 Problem: To train a model, large quantities of input is needed.
 
