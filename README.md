@@ -131,3 +131,14 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
+
+
+
+
+
+My Notes:
+  Step 1: Ship a photo to S3 based on MQTT message - we can use the IoT Console
+  Step 2: Use an IoT device to send the MQTT message via greengrass
+  Step 3: Multi Sensors trigger different photos
+  Step 4: Multi Sensors trigger storage of a serries of photos
+  Step 5: Alexa triggers gif generator
